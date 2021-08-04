@@ -1,3 +1,10 @@
 Robuilders 2:
 
+UPDATES SO FAR:
+
+Chunks generate on server and load in client
+Blocks are textured
+
+GOALS:
+
 When client hollows terrain, load chunks around it without generating blocks
